@@ -1,0 +1,1 @@
+document.getElementById("a").innerHTML="welcome to ext js"

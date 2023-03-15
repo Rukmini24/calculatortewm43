@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+  div{
+      height: 600px;
+      width: 100%;
+      background-image: url(./html/garage/);
+      background-size:100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      transition: background-size 4s;
+  }
+  div:hover{
+      background-size:1800px;
+  }
+  #ia {
+      height:300px;
+      width:300px;
+      padding-left:100px;
+      padding-top: 40px;
+      transition: rotate 4s;
+  }
+  
+  div:hover #ia {
+             rotate:360deg;
+          }
+          #ib{
+              height: 300px;
+              width: 300px;
+              padding-left: 750px;
+              transition: background-size 4s;
+          }
+          div:hover #ib{
+              background-size: 1800px;
+          }
+           #ic{
+                height: 150px;
+                width:300px;
+                padding-top:130px;
+                transition: margin-left 4s;
+           }
+           div:hover #ic{
+              margin-left:1300px;
+           }

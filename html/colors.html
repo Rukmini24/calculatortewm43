@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        body{
+            transition: all 3s;
+        }
+    </style>
+</head>
+<body id="b" onload="fun()">
+    <script>
+        function fun()
+        {
+            var a=["red","green","purple","blue","pink","black"]
+            var randomnumber=Math.floor(Math.random()*(a.length))
+            document.getElementById("b").style.backgroundColor=a[randomnumber]
+            var c=setTimeout(function(){fun()},1000)
+        }
+    </script>
+</body>
+</html>

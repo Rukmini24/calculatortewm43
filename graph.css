@@ -1,0 +1,674 @@
+*{
+    background-color: antiquewhite;
+    padding: 0PX;
+    margin: 0PX;
+}
+
+*{
+    background-color: antiquewhite;
+    padding: 0PX;
+    margin: 0PX;
+}
+#a{
+    width: 10px;
+    height: 40px;
+    background-color:red;
+    float: left;
+   
+}
+
+
+#b{
+   width: 1%;
+   height: 30px;
+   background-color: red;
+   transition: width 2S ;
+}
+.b{
+    width: 30px;
+    height: 30px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 20%;
+    right: 70%;
+}
+.c{
+    width: 17px;
+    height: 17px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 27%;
+    right: 71%;
+}
+.d{
+    width: 40px;
+    height: 40px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 31%;
+    right: 70%;
+}
+.e{
+    width: 30px;
+    height: 30px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 39%;
+    right: 70%;
+}
+.f{
+    width: 9px;
+    height: 9px;
+    background-color:red;
+    border-radius: 100%;
+    position: fixed;
+    top: 48%;
+    right: 70%;
+}
+.g{
+    width: 40px;
+    height: 40px;
+    background-color:red;
+    border-radius: 100%;
+    position: fixed;
+    top: 53%;
+    right: 70%;
+}
+.h{
+    width: 40px;
+    height: 40px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 60%;
+    right: 70%;
+}
+.i{
+    width: 20px;
+    height: 20px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 69%;
+    right: 70%;
+}
+.a{
+    width:40%;
+    height: 400px;
+    background-color: aliceblue;
+    margin-top: 20PX;
+   
+    }
+    #a{
+        width: 10px;
+        height: 90px;
+        background-color:red;
+        float: left;
+    
+    }
+    #b{
+       width: 1%;
+       height: 30px;
+       background-color: red;
+       transition: width 2S ;
+    }
+    .b{
+        width: 30px;
+        height: 30px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 20%;
+        right: 70%;
+    }
+    .c{
+        width: 17px;
+        height: 17px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 27%;
+        right: 71%;
+    }
+    .d{
+        width: 40px;
+        height: 40px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 31%;
+        right: 70%;
+    }
+    .e{
+        width: 30px;
+        height: 30px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 39%;
+        right: 70%;
+    }
+    .f{
+        width: 9px;
+        height: 9px;
+        background-color:red;
+        border-radius: 100%;
+        position: fixed;
+        top: 48%;
+        right: 70%;
+    }
+    .g{
+        width: 40px;
+        height: 40px;
+        background-color:red;
+        border-radius: 100%;
+        position: fixed;
+        top: 53%;
+        right: 70%;
+    }
+    .h{
+        width: 40px;
+        height: 40px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 60%;
+        right: 70%;
+    }
+    .i{
+        width: 20px;
+        height: 20px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 69%;
+        right: 70%;
+    }
+    .a{
+        width:40%;
+        height: 400px;
+        background-color: aliceblue;
+       
+    }
+    .a:hover #B{
+        width: 50%;
+        height: 50px;
+        background-color: red;
+    }
+    #c{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #c{
+         width: 30%;
+         height: 30px;
+         background-color: red;
+     }
+     #d{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #d{
+         width: 20%;
+         height: 30px;
+         background-color: red;
+     }
+     #e{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #e{
+         width: 15.7%;
+         height: 30px;
+         background-color: red;
+     }
+     #f{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #f{
+         width: 15.6%;
+         height: 30px;
+         background-color: red;
+     }
+     #g{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #g{
+         width: 13%;
+         height: 30px;
+         background-color: red;
+     }
+     #h{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #h{
+         width: 10%;
+         height: 30px;
+         background-color: red;
+     }
+
+}
+.a:hover #b{
+    width: 50%;
+    height: 500px;
+    background-color: red;
+}
+#c{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #c{
+     width: 30%;
+     height: 30px;
+     background-color: red;
+ }
+ #d{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #d{
+     width: 20%;
+     height: 30px;
+     background-color: red;
+ }
+ #e{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #e{
+     width: 15.7%;
+     height: 30px;
+     background-color: red;
+ }
+ #f{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #f{
+     width: 15.6%;
+     height: 30px;
+     background-color: red;
+ }
+ #g{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #g{
+     width: 13%;
+     height: 30px;
+     background-color: red;
+ }
+ #h{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #h{
+     width: 10%;
+     height: 30px;
+     background-color: red;
+ }
+
+
+
+
+
+#a{
+    width: 10px;
+    height: 40px;
+    background-color:red;
+    float: left;
+   
+}
+
+
+#b{
+   width: 1%;
+   height: 30px;
+   background-color: red;
+   transition: width 2S ;
+}
+.b{
+    width: 30px;
+    height: 30px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 20%;
+    right: 70%;
+}
+.c{
+    width: 17px;
+    height: 17px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 27%;
+    right: 71%;
+}
+.d{
+    width: 40px;
+    height: 40px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 31%;
+    right: 70%;
+}
+.e{
+    width: 30px;
+    height: 30px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 39%;
+    right: 70%;
+}
+.f{
+    width: 9px;
+    height: 9px;
+    background-color:red;
+    border-radius: 100%;
+    position: fixed;
+    top: 48%;
+    right: 70%;
+}
+.g{
+    width: 40px;
+    height: 40px;
+    background-color:red;
+    border-radius: 100%;
+    position: fixed;
+    top: 53%;
+    right: 70%;
+}
+.h{
+    width: 40px;
+    height: 40px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 60%;
+    right: 70%;
+}
+.i{
+    width: 20px;
+    height: 20px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: fixed;
+    top: 69%;
+    right: 70%;
+}
+.a{
+    width:40%;
+    height: 400px;
+    background-color: aliceblue;
+    margin-top: 20PX;
+   
+    }
+    #a{
+        width: 10px;
+        height: 90px;
+        background-color:red;
+        float: left;
+    
+    }
+    #b{
+       width: 1%;
+       height: 30px;
+       background-color: red;
+       transition: width 2S ;
+    }
+    .b{
+        width: 30px;
+        height: 30px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 20%;
+        right: 70%;
+    }
+    .c{
+        width: 17px;
+        height: 17px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 27%;
+        right: 71%;
+    }
+    .d{
+        width: 40px;
+        height: 40px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 31%;
+        right: 70%;
+    }
+    .e{
+        width: 30px;
+        height: 30px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 39%;
+        right: 70%;
+    }
+    .f{
+        width: 9px;
+        height: 9px;
+        background-color:red;
+        border-radius: 100%;
+        position: fixed;
+        top: 48%;
+        right: 70%;
+    }
+    .g{
+        width: 40px;
+        height: 40px;
+        background-color:red;
+        border-radius: 100%;
+        position: fixed;
+        top: 53%;
+        right: 70%;
+    }
+    .h{
+        width: 40px;
+        height: 40px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 60%;
+        right: 70%;
+    }
+    .i{
+        width: 20px;
+        height: 20px;
+        background-color:greenyellow;
+        border-radius: 100%;
+        position: fixed;
+        top: 69%;
+        right: 70%;
+    }
+    .a{
+        width:40%;
+        height: 400px;
+        background-color: aliceblue;
+       
+    }
+    .a:hover #B{
+        width: 50%;
+        height: 50px;
+        background-color: red;
+    }
+    #c{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #c{
+         width: 30%;
+         height: 30px;
+         background-color: red;
+     }
+     #d{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #d{
+         width: 20%;
+         height: 30px;
+         background-color: red;
+     }
+     #e{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #e{
+         width: 15.7%;
+         height: 30px;
+         background-color: red;
+     }
+     #f{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #f{
+         width: 15.6%;
+         height: 30px;
+         background-color: red;
+     }
+     #g{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #g{
+         width: 13%;
+         height: 30px;
+         background-color: red;
+     }
+     #h{
+        width: 1%;
+        height: 30px;
+        background-color: red;
+        transition: width 2S ;
+     }
+     .a:hover #h{
+         width: 10%;
+         height: 30px;
+         background-color: red;
+     }
+
+}
+.a:hover #b{
+    width: 50%;
+    height: 500px;
+    background-color: red;
+}
+#c{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #c{
+     width: 30%;
+     height: 30px;
+     background-color: red;
+ }
+ #d{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #d{
+     width: 20%;
+     height: 30px;
+     background-color: red;
+ }
+ #e{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #e{
+     width: 15.7%;
+     height: 30px;
+     background-color: red;
+ }
+ #f{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #f{
+     width: 15.6%;
+     height: 30px;
+     background-color: red;
+ }
+ #g{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #g{
+     width: 13%;
+     height: 30px;
+     background-color: red;
+ }
+ #h{
+    width: 1%;
+    height: 30px;
+    background-color: red;
+    transition: width 2S ;
+ }
+ .a:hover #h{
+     width: 10%;
+     height: 30px;
+     background-color: red;
+ }

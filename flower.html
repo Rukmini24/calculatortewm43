@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Document</title>
+   <style>
+    #cont{
+        height:800px;
+        width:80%;
+        background-color:black;
+        position:relative;
+    }
+    .a{
+        width:200px;
+        height:200px;
+        background-color:rgb(241, 12, 51);
+        border-radius: 100% 0px 100% 0px;
+        position:absolute;
+        rotate:-45deg;
+        top:80px;
+        left:400px;
+        transition:all 2s;
+       }
+       #cont:hover #left1{
+        rotate:-90deg;
+        left:320px;
+       }
+       #cont:hover #left2{
+        rotate:-60deg;
+        left:360px;
+       }
+       #cont:hover #right1{
+        rotate:0deg;
+        left:480px;
+       }
+       #cont:hover #right2{
+        rotate:-20deg;
+        left:435px;
+       }
+       #bud{
+        width:120px;
+        height:120px;
+        background-color: lawngreen;
+        position: absolute;
+        top:250px;
+        left:435px;
+        border-radius: 20% 20% 100% 100%;
+       }
+   </style>
+</head>
+<body>
+    <div id="cont">
+        <div class="a" id="left1"></div>
+        <div class="a" id="left2"></div>
+        <div class="a" id="center"></div>
+        <div class="a" id="right1"></div>
+        <div class="a" id="right2"></div>
+        <div id="bud"></div>
+    </div>
+
+    
+</body>
+</html>

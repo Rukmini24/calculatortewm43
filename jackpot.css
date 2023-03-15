@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+ background-size: 100%  100vh;
+}
+#a{
+    width:100px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    bottom:80px;
+    left:220px;
+    box-shadow: 5px 5px 10px blac
+}
+#b{
+    width:150px;
+    height:80px;
+    background-color: red;
+    position:absolute;
+    bottom:80px;
+    left:220px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#c{
+    width:150px;
+    height:80px;
+    background-color: red;
+    position:absolute;
+    bottom:80px;
+    left:220px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

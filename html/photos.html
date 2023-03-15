@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title>
+<style>
+    *{
+        padding:0px;
+        margin: 0px;
+        transition: all 5s;
+    }
+    #header{
+        width:100vw;
+        height:90vh;
+        background-image: url(./pexels-philipp;
+        background-repeat: no-repeat;
+        background-size: 100vw 90vh;
+        display:flex;
+        align-items:center;
+        justify-content: center;
+        letter-spacing: 25px;
+        color:blue;
+    }
+</style>
+</head>
+<body>
+    <div id="header"><h1>This is header</h1>
+    </div>
+    <script>
+        function fun()
+        {
+            var img=["pngwing.com.png","pexels-simon-robben-340779.jpg","pexels-philippe-donn-1169754.jpg"]
+            var imglen=img.length;
+            var randomnumber=Math.floor(Math.random()*imglen)
+            document.getElementById("header").style.backgroundImage="url("+img[randomnumber]+")"
+            var  autochange=setTimeout(function(){fun()},5000)
+        }
+    </script>
+</body>
+</html>
